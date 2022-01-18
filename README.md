@@ -1,1 +1,2 @@
-#  Boostrap 5 project
+#  
+Technoligies used: HTML, CSS, Boostrapt, jQuery, Javascript 
