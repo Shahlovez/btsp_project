@@ -538,7 +538,7 @@ align-items: center;
     /* *--------------------------------------------------------------
     # Owl Carousel
     --------------------------------------------------------------*/
-   #owlcarousel{
+    #owlcarousel{
      max-width: 1320px;
      margin: 0 auto;
      padding: 5rem .5rem;
@@ -547,8 +547,7 @@ align-items: center;
    .owl-carousel .item{
      width: 100%;
      height:auto;
-   }
-   
+   } 
    
    .bestpicks h2{
     font-size: 30px;
@@ -689,49 +688,8 @@ color: white;
   font-size: 14px;
   margin-bottom: 0;
 } 
-.contact .php-email-form {
-  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
-  padding: 30px;
-  border-radius: 4px;
-  background-color: white;
-}
-.contact .php-email-form .loading {
-  display: none;
-  background: #fff;
-  text-align: center;
-  padding: 15px;
-}
 
-.contact .php-email-form .form-group {
-  margin-bottom: 25px;
-}
-.contact .php-email-form input,
-.contact .php-email-form textarea {
-  box-shadow: none;
-  font-size: 14px;
-  border-radius: 4px;
-}
-.contact .php-email-form input:focus,
-.contact .php-email-form textarea:focus {
-  border-color: #111111;
-}
-.contact .php-email-form input {
-  padding: 10px 15px;
-}
-.contact .php-email-form textarea {
-  padding: 12px 15px;
-}
-.contact .php-email-form button[type='submit'] {
-  background: #e03a3c;
-  border: 0;
-  padding: 10px 32px;
-  color: #fff;
-  transition: 0.4s;
-  border-radius: 4px;
-}
-.contact .php-email-form button[type='submit']:hover {
-  background: #e35052;
-} 
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
